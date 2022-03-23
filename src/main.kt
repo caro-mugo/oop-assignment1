@@ -3,7 +3,7 @@ fun main(){
     caro.eat(5)
     println(caro.weight)
     caro.weight
-    caro.speakspeech("Is this all that am feeling?")
+    caro.speakspeech("follow your dreams girl")
     caro.birthdaydate(10)
     var jane =classhumans.username("misky","linda","mary","0789765677",'k')
     println(jane.email)
