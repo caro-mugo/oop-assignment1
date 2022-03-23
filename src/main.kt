@@ -5,7 +5,7 @@ fun main(){
     caro.weight
     caro.speakspeech("follow your dreams girl")
     caro.birthdaydate(10)
-    var jane =classhumans.username("misky","linda","mary","0789765677",'k')
+    var jane =username("misky","linda","mary","0789765677",'k')
     println(jane.email)
     println(jane.phoneNumber)
 }
@@ -34,4 +34,5 @@ class classhumans(var name:String,var age:Int,var weight:Int){
 
 
 
-}
+    {
+    }
